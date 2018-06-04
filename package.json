@@ -1,0 +1,11 @@
+{
+  "name": "hapi001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vinay Bedre <vinay.bedre@sap.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "^1.0.1"
+  }
+}

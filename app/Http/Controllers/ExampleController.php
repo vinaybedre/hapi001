@@ -29,6 +29,7 @@ class ExampleController extends Controller
             "Operation" => "ItemLookup",
             "AWSAccessKeyId" => "AKIAJJ54YF5PMXSXQNRQ",
             "AssociateTag" => "mankho-21",
+            "Available" => "Available",
             "ItemId" => $ItemId,//"B01NAKTR2H",
             "IdType" => "ASIN",
             "ResponseGroup" => "Images,ItemAttributes,Offers,Reviews"
